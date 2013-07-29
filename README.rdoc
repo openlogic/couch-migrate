@@ -141,6 +141,6 @@ be open sourced.
 
 == Copyright
 
-Copyright (c) 2011 OpenLogic, Inc. and Greg Edwards. See LICENSE.txt for
+Copyright (c) 2011 OpenLogic, Inc. See LICENSE.txt for
 further details.
 
